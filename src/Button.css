@@ -1,0 +1,12 @@
+.Button{
+    outline: none;
+    background-color: #58D68D ;
+    
+
+}
+.btn{
+    background-color: #141A46;
+}
+.btn:hover{
+    background-color: #58D68D ;
+}
