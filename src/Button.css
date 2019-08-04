@@ -10,3 +10,11 @@
 .btn:hover{
     background-color: #58D68D ;
 }
+.bt{
+    background-color:#58D68D;
+    color: white;
+}
+.bt:hover{
+    background-color:aquamarine;
+    color: black;
+}
